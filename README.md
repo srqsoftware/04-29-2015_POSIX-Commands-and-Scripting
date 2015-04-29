@@ -1,4 +1,6 @@
 # POSIX Commands and Scripting by Nathan Harris on April 29, 2015 at SSEUG
+Meeting agenda: http://srqsoftware.github.io/04-29-2015_POSIX-Commands-and-Scripting/
+
 
 ## Abstract 
 Shell scripting provides a rich set of capabilities for automating tasks. 
